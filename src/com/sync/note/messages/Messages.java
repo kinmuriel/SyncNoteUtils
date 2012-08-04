@@ -17,4 +17,6 @@ public class Messages {
 	public static final int REGISTER_REQUEST = 4;
 	public static final int GOOD_REGISTER_ANSWER = 5;
 	public static final int BAD_REGISTER_ANSWER = 6;
+	public static final int UPDATE_REQUEST = 7;
+	public static final int PASSWORD_CHANGE_REQUEST = 8;
 }

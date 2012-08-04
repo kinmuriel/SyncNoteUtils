@@ -15,4 +15,12 @@ public class RegisterMessage extends SuperMessage{
 		user = u;
 		pass1 = p1;
 	}
+	
+	public String getUserName(){
+		return user;
+	}
+	
+	public String getPassword(){
+		return pass1;
+	}
 }
